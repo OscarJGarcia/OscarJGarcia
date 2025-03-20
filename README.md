@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @OscarJGarcia , I am a systems engenieer, Currently i am working as a Software Developer, i love frontend frameworks.
 - 👀 I’m interested in learn different kind of frameworks in the front end side
 - 🌱 I’m currently learning React JS.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 OscarJGarcia/OscarJGarcia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
